@@ -1,0 +1,18 @@
+.btn-info {
+	background-color: purple;
+}
+
+.btn-info:hover {
+	background-color: #73f;
+}
+.btn-info:focus:active {
+	background-color: #73a;
+}
+
+/*background classes*/
+
+.computer-bg {
+	background-image: url('../images/turtle.jpeg');
+	background-position: center;
+	background-size: cover;
+}
